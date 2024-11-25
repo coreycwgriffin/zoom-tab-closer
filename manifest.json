@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Zoom Meeting Launch Tab Closer",
+  "description": "An extension that closes the browser tabs from Zoom meeting launches after 60s.",
+  "version": "1.0",
+  "author": "Corey Griffin",
+  "update_url": "https://github.com/coreycwgriffin/zoom-tab-closer",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
