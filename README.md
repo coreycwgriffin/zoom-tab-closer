@@ -6,6 +6,6 @@ Specifically it will check every 60 seconds, as well as whenever any other tab i
 
 ## Installation
 
-Download the `zoom-tab-closer.crx` file somewhere and follow [these instructions](https://developer.chrome.com/docs/extensions/how-to/distribute/install-extensions#prereq-crx) (or whatever instructions are appropriate for your Chromium browser). 
+[Download](https://github.com/coreycwgriffin/zoom-tab-closer/releases/download/1.0/zoom-tab-closer.crx) the `zoom-tab-closer.crx` file somewhere and follow [these instructions](https://developer.chrome.com/docs/extensions/how-to/distribute/install-extensions#prereq-crx) (or whatever instructions are appropriate for your Chromium browser). 
 
 Alternatively you could clone this repo and install as an unpacked extension.
