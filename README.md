@@ -6,7 +6,7 @@ Specifically it will check every 60 seconds, as well as whenever any other tab i
 
 ## Installation
 
-## The Slightly Easier Developer Mode Way
+### The Slightly Easier Developer Mode Way
 
 The easiest way to install this extension is probably through Chrome's (or your Chromium browser's) developer mode as an "unpacked" extension (instructions adapted from [here](https://stackoverflow.com/a/24577660)):
 
