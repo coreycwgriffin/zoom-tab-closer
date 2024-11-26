@@ -6,6 +6,17 @@ Specifically it will check every 60 seconds, as well as whenever any other tab i
 
 ## Installation
 
-[Download](https://github.com/coreycwgriffin/zoom-tab-closer/releases/download/1.0/zoom-tab-closer.crx) the `zoom-tab-closer.crx` file somewhere and follow [these instructions](https://developer.chrome.com/docs/extensions/how-to/distribute/install-extensions#prereq-crx) (or whatever instructions are appropriate for your Chromium browser). 
+## The Slightly Easier Developer Mode Way
 
-Alternatively you could clone this repo and install as an unpacked extension.
+The easiest way to install this extension is probably through Chrome's (or your Chromium browser's) developer mode as an "unpacked" extension (instructions adapted from [here](https://stackoverflow.com/a/24577660)):
+
+1. [Download](https://github.com/coreycwgriffin/zoom-tab-closer/archive/refs/tags/1.0.zip) the zip file of this code and extract it, [download](https://github.com/coreycwgriffin/zoom-tab-closer/releases/download/1.0/zoom-tab-closer.crx) the CRX file and extract it (as you would a zip file), or clone this repo to a local directory.
+1. Visit chrome://extensions (via omnibox or menu -> Tools -> Extensions).
+1. Enable Developer mode by ticking the checkbox in the upper-right corner.
+1. Click on the "Load unpacked extension..." button.
+1. Select the directory containing your unpacked extension.
+
+
+### The Harder, non Developer Mode Way
+
+[Download](https://github.com/coreycwgriffin/zoom-tab-closer/releases/download/1.0/zoom-tab-closer.crx) the `zoom-tab-closer.crx` file somewhere and follow [these instructions](https://developer.chrome.com/docs/extensions/how-to/distribute/install-extensions#prereq-crx) (or whatever instructions are appropriate for your Chromium browser). 
